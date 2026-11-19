@@ -1,0 +1,5 @@
+numpy
+pypdf
+rank-bm25
+requests
+streamlit
